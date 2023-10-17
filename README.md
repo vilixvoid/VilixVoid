@@ -1,5 +1,5 @@
 ![Programmer Pixel 2gif](https://github.com/VilixVoid/Vilix/assets/120712537/c916a021-fd3f-40b8-904b-e0ff4d332dde)(https://mayhestagm.vercel.app/)
-<h1 align="center">Hi 👋, I'm Mayhesta Gilang Maulana/h1>
+<h1 align="center">Hi 👋, I'm Mayhesta Gilang Maulana</h1>
 <h3 align="center">A passionate Web Developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -44,8 +44,8 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>-->
