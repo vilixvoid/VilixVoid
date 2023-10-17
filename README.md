@@ -1,5 +1,4 @@
-![Programmer Pixel 2gif](https://github.com/VilixVoid/Vilix/assets/120712537/c916a021-fd3f-40b8-904b-e0ff4d332dde)
-(https://rishavchanda.io)
+![Programmer Pixel 2gif](https://github.com/VilixVoid/Vilix/assets/120712537/c916a021-fd3f-40b8-904b-e0ff4d332dde)(https://mayhestagm.vercel.app/)
 <h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
