@@ -1,4 +1,4 @@
-![Programmer Pixel 2gif](https://github.com/VilixVoid/Vilix/assets/120712537/c916a021-fd3f-40b8-904b-e0ff4d332dde)(https://mayhestagm.vercel.app/)
+![Programmer Pixel 1](https://github.com/VilixVoid/VilixVoid/assets/120712537/db082536-cdfc-46fb-89be-4ab0c61597d7)(https://mayhestagm.vercel.app/)
 <h1 align="center">Hi 👋, I'm Mayhesta Gilang Maulana</h1>
 <h3 align="center">A passionate Web Developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/VilixVoid/Vilix/assets/120712537/9e2396ee-d594-4fa8-ae12-ad9ea74cbff3">
