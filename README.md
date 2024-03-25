@@ -21,7 +21,7 @@ new Person({
 ```
 
 ```cmd
-D:\Deri-Kurniawan> node index.js
+D:\vilixvoid> node index.js
 Hi, my name is Mayhesta, I'm a Junior Web Developer from Indonesia.
 ```
 
