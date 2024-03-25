@@ -12,17 +12,17 @@
 import { Person } from 'indonesia';
 
 new Person({
-    name   : 'Deri Kurniawan',
-    title  : 'Full Stack Developer',
-    email  : 'deri.netuchi@gmail.com',
-    website: 'https://deri.my.id',
-    married: !!!true,
+    name   : 'Mayhesta Gilang Maulana',
+    title  : 'Junior Web Developer',
+    email  : 'mayhestagilangm@gmail.com',
+    website: 'https://mayhestagm.vercel.app',
+    married: !!!false,
 }).introduce();
 ```
 
 ```cmd
 D:\Deri-Kurniawan> node index.js
-Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+Hi, my name is Mayhesta, I'm a Junior Web Developer from Indonesia.
 ```
 
 <div align="center">
@@ -33,12 +33,11 @@ Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                50 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-🌆 Daytime                250 commits        ███████████░░░░░░░░░░░░░░   43.18 % 
-🌃 Evening                200 commits        █████████░░░░░░░░░░░░░░░░   34.34 % 
-🌙 Night                  100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+🌞 Morning                150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+🌆 Daytime                300 commits        █████████░░░░░░░░░░░░░░░░   34.34 % 
+🌃 Evening                250 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+🌙 Night                  400 commits        ███████████░░░░░░░░░░░░░░   43.18 % 
 ```
-
 
 📊 **This Week I Spent My Time On** 
 
@@ -46,8 +45,8 @@ Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               22 hrs 41 mins      ██████████████████████░░░   89.03 % 
-JavaScript               1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Javascript               22 hrs 41 mins      ██████████████████████░░░   89.03 % 
+TypeScript                1 hr 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
 Prisma                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
@@ -94,7 +93,7 @@ Windows                  25 hrs 29 mins      ███████████�
 
 <h3 align="center">⭐My Favorite Repo⭐</h3>
 
-<div>
+<!--<div>
   <p align="center">
 	<a href="https://github.com/Deri-Kurniawan/windows-11-os">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=windows-11-os&theme=transparent" alt="GitHub Stats" />
@@ -114,7 +113,7 @@ Windows                  25 hrs 29 mins      ███████████�
     	<a href="https://github.com/Deri-Kurniawan/mini-framework">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=mini-framework&theme=transparent" alt="GitHub Stats" />
     	</a>
-</div>
+</div>-->
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
@@ -123,11 +122,11 @@ Windows                  25 hrs 29 mins      ███████████�
 <h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bitlie.deri.my.id/linkedin)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://bitlie.deri.my.id/instagram)
-[![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://bitlie.deri.my.id/dribbble)
-[![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://bitlie.deri.my.id/stackoverflow)
-[![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://bitlie.deri.my.id/uiverse)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayhesta-gilang-maulana-034327271/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/myhstgm/)
+[![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/mayhestagm)
+[![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23781672/mayhesta-gilang-maulana)
+[![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mayhestagilangmaulana.mayhestagilangmaulana)
   
 </div>
 
