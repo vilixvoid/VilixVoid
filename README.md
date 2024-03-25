@@ -126,7 +126,7 @@ Windows                  25 hrs 29 mins      ███████████�
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/myhstgm/)
 [![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/mayhestagm)
 [![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23781672/mayhesta-gilang-maulana)
-[![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mayhestagilangmaulana.mayhestagilangmaulana)
+[![image](https://img.shields.io/badge/Facebook-04A4FB?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mayhestagilangmaulana.mayhestagilangmaulana)
   
 </div>
 
@@ -143,7 +143,7 @@ Windows                  25 hrs 29 mins      ███████████�
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
+![Commit Snake History SVG](https://raw.githubusercontent.com/vilixvoid/vilixvoid/output/github-snake.svg)
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
