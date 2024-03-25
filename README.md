@@ -33,7 +33,7 @@ Hi, my name is Mayhesta, I'm a Junior Web Developer from Indonesia.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+🌞 Morning                150 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
 🌆 Daytime                300 commits        █████████░░░░░░░░░░░░░░░░   34.34 % 
 🌃 Evening                250 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
 🌙 Night                  400 commits        ███████████░░░░░░░░░░░░░░   43.18 % 
@@ -46,7 +46,7 @@ Hi, my name is Mayhesta, I'm a Junior Web Developer from Indonesia.
 
 💬 Programming Languages: 
 Javascript               22 hrs 41 mins      ██████████████████████░░░   89.03 % 
-TypeScript                1 hr 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+TypeScript               1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
 Prisma                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
@@ -91,9 +91,9 @@ Windows                  25 hrs 29 mins      ███████████�
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-<h3 align="center">⭐My Favorite Repo⭐</h3>
+<!--<h3 align="center">⭐My Favorite Repo⭐</h3>
 
-<!--<div>
+<div>
   <p align="center">
 	<a href="https://github.com/Deri-Kurniawan/windows-11-os">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=windows-11-os&theme=transparent" alt="GitHub Stats" />
