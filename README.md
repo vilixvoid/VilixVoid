@@ -27,7 +27,7 @@ Hi, my name is Mayhesta, I'm a Junior Web Developer from Indonesia.
 
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
+[![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/vilixvoid?label=Followers) ![Stars](https://img.shields.io/github/stars/vilixvoid?label=Stars)
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -76,7 +76,7 @@ Windows                  25 hrs 29 mins      ███████████�
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,react,nextjs,tailwindcss,nodejs,express,mysql,postgresql,npm,postman,git,vscode,figma,vercel,vite&perline=6" />
 </a>
 </p>
 
