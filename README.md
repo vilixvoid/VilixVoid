@@ -22,7 +22,7 @@ new Person({
 
 ```cmd
 D:\vilixvoid> node index.js
-Hi, my name is Mayhesta, I'm a Junior Web Developer from Indonesia.
+Hi, my name is Mayhesta Gilang Maulana, I'm a Junior Web Developer from Indonesia.
 ```
 
 <div align="center">
