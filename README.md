@@ -143,7 +143,7 @@ Windows                  25 hrs 29 mins      ███████████�
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-![Commit Snake History SVG](https://raw.githubusercontent.com/vilixvoid/vilixvoid/output/github-snake.svg)
+![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
