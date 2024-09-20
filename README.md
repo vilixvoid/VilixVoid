@@ -76,7 +76,7 @@ Windows                  25 hrs 29 mins      ███████████�
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,ts,java,react,nextjs,tailwindcss,nodejs,express,mysql,postgresql,mongodb,npm,postman,git,vscode,figma,vercel,vite&perline=6" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,react,nextjs,redux,tailwindcss,nodejs,express,mysql,postgresql,mongodb,androidstudio,gradle,idea,npm,postman,git,vscode,figma,vercel,vite&perline=6" />
 </a>
 </p>
 
