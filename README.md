@@ -22,44 +22,6 @@ D:\vilixvoid> node index.js
 Hi, my name is Mayhesta Gilang Maulana, I'm a Junior Web Developer from Indonesia.
 ```
 
-<div align="center">
-
-[![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/vilixvoid?label=Followers) ![Stars](https://img.shields.io/github/stars/vilixvoid?label=Stars)
-
-<!--START_SECTION:waka
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                150 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-🌆 Daytime                300 commits        █████████░░░░░░░░░░░░░░░░   34.34 % 
-🌃 Evening                250 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-🌙 Night                  400 commits        ███████████░░░░░░░░░░░░░░   43.18 % 
-``` -->
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Javascript               22 hrs 41 mins      ██████████████████████░░░   89.03 % 
-TypeScript               1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Prisma                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-
-🔥 Editors: 
-VS Code                  25 hrs 29 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  25 hrs 29 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 24-03-2024 17:16:43 UTC
-<!--END_SECTION:waka-->
-  
-</div>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
