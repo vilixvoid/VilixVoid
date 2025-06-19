@@ -3,12 +3,7 @@
   <img src="https://i.pinimg.com/736x/42/eb/76/42eb768253f2c3bc372b122218b06ed7.jpg" width="4000" alt="Notion Background" />
 </p>
 
-
----
-
 ## 👨‍💻 About Me
-
-# 👋 Hi there! 
 ```bash
 D:\vilixvoid> node index.js
 Hi, my name is Mayhesta Gilang Maulana, I'm a Web & Mobile Developer from Indonesia.
