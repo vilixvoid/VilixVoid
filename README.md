@@ -26,7 +26,7 @@ new Person({
 
 ## 🛠 Tech Stack
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,react,nextjs,redux,tailwindcss,nodejs,express,mysql,postgresql,mongodb,firebase,androidstudio,gradle,tensorflow,idea,npm,postman,git,vscode,figma,vercel,vite&perline=6" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,dart,react,nextjs,flutter,redux,tailwindcss,nodejs,express,mysql,postgresql,mongodb,firebase,androidstudio,gradle,idea,npm,postman,git,vscode,figma,vercel,vite&perline=6" /> </p>
 
 
 ---
